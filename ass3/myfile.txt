@@ -1,0 +1,4 @@
+test mic 1 2 1 2
+test mic 12
+test mic 1 2 1 2
+test mic 12
